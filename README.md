@@ -39,19 +39,6 @@ To set up the project, you'll need the following:
 - JDK 20
 - JavaFX 20 SDK
 
-### Installation
 
-Follow these steps to install and configure the project:
-
-1. Download and install MySQL Server and ensure it is running. You can refer to the [Getting Started with MySQL](https://dev.mysql.com/doc/mysql-getting-started/en/) guide for assistance.
-2. Open the `.env` file located in the project's root directory and provide the necessary database configuration variables based on your local setup.
-3. Import the project into Eclipse as a Java project using the provided `.project` file.
-4. Install the E(fx)clipse plugin from the Eclipse Marketplace to support JavaFX development.
-5. Configure your Eclipse project for JavaFX by following the instructions outlined in the [Getting Started with JavaFX](https://openjfx.io/openjfx-docs/#IDE-Eclipse) documentation. If you are using a different IDE, you can refer to the relevant instructions for setting up JavaFX.
-   - Note: The project was primarily developed using Eclipse, so the setup instructions are tailored to Eclipse.
-
-### Running the Project
-
-Launch the project using the predefined run configurations created during the setup process (Step 5 in the Installation section).
 
 
