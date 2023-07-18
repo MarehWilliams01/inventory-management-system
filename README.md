@@ -36,8 +36,8 @@ To set up the project, you'll need the following:
 
 - MySQL Server
 - Eclipse Java IDE with E(fx)clipse plugin
-- JDK 18
-- JavaFX 18 SDK
+- JDK 20
+- JavaFX 20 SDK
 
 ### Installation
 
