@@ -1,8 +1,8 @@
-# Super Store Inventory Management System
+# Inventory Management System
 
 ## Overview
 
-The Super Store Inventory Management System is a Java-based project designed to assist stores and warehouses in efficiently managing their product inventory and tracking sales. The system utilizes a MySQL database for data persistence, and different categories of products are stored using various data structures.
+The Inventory Management System is a Java-based project designed to assist stores and warehouses in efficiently managing their product inventory and tracking sales. The system utilizes a MySQL database for data persistence, and different categories of products are stored using various data structures.
 
 ### Product Categories
 
