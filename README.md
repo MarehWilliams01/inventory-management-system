@@ -10,27 +10,13 @@ The system organizes products into the following categories:
 
 **1. Stack Categories:**
 
-- Beverages: Includes coffee/tea, juice, and soda.
-- Bread/Bakery: Includes sandwich loaves, dinner rolls, tortillas, and bagels.
-- Canned/Jarred Goods: Includes vegetables, spaghetti sauce, and ketchup.
-- Dairy: Includes cheeses, eggs, milk, yogurt, and butter.
-
 **2. Queue Categories:**
-
-- Dry/Baking Goods: Includes cereals, flour, sugar, pasta, and mixes.
-- Frozen Foods: Includes waffles, vegetables, individual meals, and ice cream.
-- Meat: Includes lunch meat, poultry, beef, and pork.
 
 **3. List Categories:**
 
-- Produce: Includes fruits and vegetables.
-- Cleaners: Includes all-purpose cleaners, laundry detergent, and dishwashing liquid/detergent.
-- Paper Goods: Includes paper towels, toilet paper, aluminum foil, and sandwich bags.
-- Personal Care: Includes shampoo, soap, hand soap, and shaving cream.
-
 ## Features
 
-The Super Store Inventory Management System provides the following features:
+The Inventory Management System provides the following features:
 
 - Adding products: Allows users to add new products to the inventory.
 - Editing product details: Enables users to modify product information such as name, price, quantity, etc.
@@ -68,4 +54,4 @@ Follow these steps to install and configure the project:
 
 Launch the project using the predefined run configurations created during the setup process (Step 5 in the Installation section).
 
-This setup guide provides a brief overview of the Super Store Inventory Management System and instructions for installing and running the project. Feel free to customize and adapt the system as per your specific requirements.
+
