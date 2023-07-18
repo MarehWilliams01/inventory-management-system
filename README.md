@@ -8,11 +8,11 @@ The Inventory Management System is a Java-based project designed to assist store
 
 The system organizes products into the following categories:
 
-**1. Stack Categories:**
+**1. Stack Categories**
 
-**2. Queue Categories:**
+**2. Queue Categories**
 
-**3. List Categories:**
+**3. List Categories**
 
 ## Features
 
