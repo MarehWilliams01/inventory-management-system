@@ -1,13 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package com.group9.inventoryapp;
 
 import java.util.Arrays;
 /**
  *
- * @author erica selasie
  * @param <T>
  */
 public class ArrayStack<T> implements StackADT<T>{
