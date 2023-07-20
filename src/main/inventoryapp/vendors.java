@@ -1,8 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-package com.group9.inventoryapp;
+
+package com.inventoryapp;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -13,10 +10,7 @@ import java.util.Vector;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author erica selasie
- */
+
 public class vendors extends javax.swing.JFrame {
 
     /**
