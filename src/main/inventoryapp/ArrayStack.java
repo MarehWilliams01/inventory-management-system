@@ -1,5 +1,5 @@
 
-package com.group9.inventoryapp;
+package com.inventoryapp;
 
 import java.util.Arrays;
 /**
