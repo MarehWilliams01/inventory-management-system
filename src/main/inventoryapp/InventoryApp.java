@@ -1,8 +1,6 @@
-package com.group9.inventoryapp;
+package com.inventoryapp;
 
-/**
- *
- */
+
 public class InventoryApp {
 
     public static void main(String[] args) {
